@@ -3,11 +3,13 @@
 </p>
 <h2 align="center">FineRob - Fine-Grained Social Media Behavior Simulation Dataset</h2>
 
-<div align="center">
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-</div>
-## Overview
+## Table of Contents
 
+- [Overview](#overview)
+- [Dataset Description](#dataset-description)
+- [Download](#Download)
+
+## Overview
 **Finerob** is a novel fine-grained user behavior simulation dataset collected from three social media platform: X(Twitter), Reddit, Zhihu.
 
 ## Dataset Description
