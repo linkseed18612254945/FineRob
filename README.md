@@ -23,4 +23,4 @@
 ## Download
 The dataset download please visit the huggingface hub: https://huggingface.co/datasets/Linkseed/FineRob
 
-
+OM-COT instruct data: https://huggingface.co/datasets/Linkseed/FineRob_OM-CoT_Instruction
